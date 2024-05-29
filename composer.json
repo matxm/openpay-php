@@ -1,5 +1,5 @@
 {
-    "name": "matxm/openpay/sdk",
+    "name": "matxm/openpay-sdk",
     "description": "This is a client implementing the payment services for Openpay at openpay.mx",
     "type": "library",
     "minimum-stability": "dev",
